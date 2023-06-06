@@ -1,2 +1,0 @@
-# SOFTWARE-DEVELOPMENT-PROJECT-MANAGEMENT
-Online Medicine Delivery System
